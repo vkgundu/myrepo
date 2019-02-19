@@ -16,6 +16,7 @@ public class HelloWorld {
 		System.out.println(st1.getStudentId());
 		System.out.println("My Sample Code");
 		//st.setStudentId("");
+		System.gc();
 	}
 
 }
