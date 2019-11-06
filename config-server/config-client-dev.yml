@@ -1,0 +1,8 @@
+---
+message: vinay Kumar gundu testing
+---
+application:
+  spring:
+    profiles:
+      active: dev
+message: vinay Kumar gundu dev
