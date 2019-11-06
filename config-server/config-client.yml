@@ -1,1 +1,10 @@
-message=vinay Kumar gundu
+---
+message: vinay Kumar gundu
+---
+spring:
+    profiles: dev
+    message: dev- vinay
+---
+spring:
+    profiles: qa
+    message: qa -vinay
