@@ -1,8 +1,0 @@
----
-message: vinay Kumar gundu testing
----
-application:
-  spring:
-    profiles:
-      active: qa
-message: vinay Kumar gundu qa sdfsfsd

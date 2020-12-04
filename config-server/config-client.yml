@@ -1,0 +1,12 @@
+---
+spring:
+  application: conig-server
+message: vinay Kumar gundu default testing
+---
+spring:
+  profiles: dev
+message: vinay Kumar gundu dev configuration
+---
+spring:
+  profiles: qa
+message: vinay Kumar gundu qa configuration changed
